@@ -1,3 +1,3 @@
 # Building IoT: A Hacker’s Journey
 
-blog post soon.
+https://zonksec.com/blog/building-iot-hackers-journey/
